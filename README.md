@@ -9,3 +9,8 @@ LIBRARIES USED:
 <br>
   1. readline-sync --> used to read the input.
   2. CHALK --> For adding colours.
+
+
+APP PREVIEW
+<br>
+![image](https://user-images.githubusercontent.com/64693025/133576574-67864b2d-fe7d-4603-a194-08d4130db88c.png)
