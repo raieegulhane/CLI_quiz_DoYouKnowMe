@@ -23,7 +23,7 @@ const questionArray = [
   },
 
   q2 = {
-    que: "What is my favorite icecream flavour?\na. Vanilla\nb. Strawberry\nd. Chocolate",
+    que: "What is my favorite icecream flavour?\na. Vanilla\nb. Strawberry\nc. Chocolate",
     ans: "a"
   },
 
